@@ -4,3 +4,4 @@ function previewFirstName(event){
 }
 
 document.getElementById("first_name").addEventListener("keyup", previewFirstName);
+
